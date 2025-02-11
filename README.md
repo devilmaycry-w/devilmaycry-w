@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ankrit
+- 💻 Passionate about backend development and database management. Currently exploring Java, SQL, and backend frameworks.
+- 👀 I’m interested in full-stack development 
+- 🌱 I’m currently learning advanced java and sql
+- 👥️️ I’m looking to collaborate on Open-source contributions related to Java & SQL
+- 📫 reach me through @realankrit@gmail.com
+- ⚡ Fun fact: I enjoy building real-world projects
