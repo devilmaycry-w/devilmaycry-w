@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Ankrit
-- 💻 Passionate about backend development and database management. Currently exploring Java, SQL, and backend frameworks.
-- 👀 I’m interested in full-stack development 
-- 🌱 I’m currently learning advanced java and sql
-- 👥️️ I’m looking to collaborate on Open-source contributions related to Java & SQL
-- 📫 reach me through @realankrit@gmail.com
-- ⚡ Fun fact: I enjoy building real-world projects
+- Hi, I’m Ankrit
+- Passionate about backend development
+- BCA Student | Java Backend Dev Enthusiast | Spring Boot & MySQL | REST APIs & CRUD | Learning & Exploring 
+
+Specializing in Java backend development with Spring Boot and MySQL. Experienced in building REST APIs with CRUD and relationships across the projects. Seeking internships to contribute to real-world backend systems.
+
+
+
+
