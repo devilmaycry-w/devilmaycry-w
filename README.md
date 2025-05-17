@@ -1,6 +1,4 @@
-- Hi, I’m Ankrit
-
-Specializing in Java backend development with Spring Boot and MySQL. Experienced in building REST APIs with CRUD and relationships across the projects. Seeking internships to contribute to real-world backend systems.
+21. Raw. Learn. Commit. StandOut
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ankrit-maity-6a37a6351/)
 
